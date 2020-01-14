@@ -1,0 +1,13 @@
+variable "region" {}
+variable "availability_zone" {}
+variable "tenant_name" {}
+variable "hostname" {}
+variable "flavor" {}
+variable "admin_pass" {}
+variable "network" {}
+variable "security_groups" {}
+variable "root_volume" {}
+variable "data_volume" {}
+variable "metadata" {}
+variable "commands" {}
+variable "os" {}
